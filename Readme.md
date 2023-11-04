@@ -7,7 +7,7 @@ Following components are used
 * Cloud Storage
 * Cloud Run
 
-![Architecture](https://github.com/vikramshinde12/document-ai-in-gcp/blob/master/Architecture.png)
+![Architecture](https://github.com/Ankit01010/Document_AI_using_GCP/blob/master/Architecture.png)
 
 ### Create Service Account
 1. Create Service Account
@@ -32,5 +32,3 @@ and download key as terraform.json
 6. terraform plan
 7. terraform apply
 
-
-The complete detail about this repo is available in the [please refer the blog](https://medium.com/@vikramshinde/document-ai-in-google-cloud-platform-7714298f50ba)
